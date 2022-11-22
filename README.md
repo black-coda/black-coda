@@ -1,5 +1,8 @@
 Hi 👋 My name is Monday Solomon
-===============================Web and Mobile Developer------------------------I love solving mathematical problems, interested in machine learning 😎📖📖. Flutter and Django my first love in programming 🤞. Believe in the resurrecting power of Jesus Christian👌* 🌍  I'm based in Nigeria 🙍‍♂️* ✉️  You can contact me at [mondaysolomon01@gmail.com](mailto:mondaysolomon01@gmail.com)* 🚀  I'm currently working on [GreenVege](http://flutter.dev)* 🧠  I'm learning Flutter, API integration* 🤝  I'm open to collaborating on Django, Django RestFramework, Flutter* ⚡  My pronouns are He🚶
+===============================
+Web and Mobile Developer
+------------------------
+I love solving mathematical problems, interested in machine learning 😎📖📖. Flutter and Django my first love in programming 🤞. Believe in the resurrecting power of Jesus Christian👌* 🌍  I'm based in Nigeria 🙍‍♂️* ✉️  You can contact me at [mondaysolomon01@gmail.com](mailto:mondaysolomon01@gmail.com)* 🚀  I'm currently working on [GreenVege](http://flutter.dev)* 🧠  I'm learning Flutter, API integration* 🤝  I'm open to collaborating on Django, Django RestFramework, Flutter* ⚡  My pronouns are He🚶
 
 ### Skills
 
@@ -20,7 +23,3 @@ Hi 👋 My name is Monday Solomon
 <a href="http://www.github.com/black-coda"><img src="https://activity-graph.herokuapp.com/graph?username=black-coda&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/black-coda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-coda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
