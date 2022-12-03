@@ -5,7 +5,7 @@
 
 Web and Mobile Developer
 ------------------------
-I love solving mathematical problems, interested in machine learning 😎📖📖. Flutter and Django my first love in programming 🤞. Believe in the resurrecting power of Jesus Christian👌* 🌍  I'm based in Nigeria 🙍‍♂️* ✉️  You can contact me at [mondaysolomon01@gmail.com](mailto:mondaysolomon01@gmail.com)* 🚀  I'm currently working on [GreenVege](http://flutter.dev)* 🧠  I'm learning Flutter, API integration* 🤝  I'm open to collaborating on Django, Django RestFramework, Flutter* ⚡  My pronouns are He🚶
+I love solving mathematical problems, interested in machine learning 😎📖📖. Flutter and Django my first love in programming 🤞. Believe in the resurrecting power of Jesus Christian👌* 🌍  I'm based in Nigeria 🙍‍♂️* ✉️  You can contact me at [mondaysolomon01@gmail.com](mailto:mondaysolomon01@gmail.com)* 🚀  I'm currently working on [Ologe](http://flutter.dev](https://github.com/black-coda/ologe)* 🧠  I'm learning Flutter, API integration* 🤝  I'm open to collaborating on Django, Django RestFramework, Flutter* ⚡  My pronouns are He🚶
 
 ### Skills
 
