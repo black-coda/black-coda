@@ -1,11 +1,22 @@
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Monday Solomon </h1>
 <h3 align="center">A Passionate Dev from Nigeria.</h3>
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<!-- <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> -->
 
 Web and Mobile Developer
 ------------------------
-I love solving mathematical problems, interested in machine learning 😎📖📖. Flutter and Django my first love in programming 🤞. Believe in the resurrecting power of Jesus Christian👌* 🌍  I'm based in Nigeria 🙍‍♂️* ✉️  You can contact me at [mondaysolomon01@gmail.com](mailto:mondaysolomon01@gmail.com) 🚀  I'm currently working on [Note.ly](https://github.com/black-coda/note.ly)* 🧠  I'm learning Flutter, API integration* 🤝  I'm open to collaborating on Django, Django RestFramework, Flutter* ⚡  My pronouns are He🚶
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="Coding" />
+</p>
+
+
+- 🔭 I’m currently working on [Note.ly](https://github.com/black-coda/note.ly)
+- 🌱 I’m currently learning Flutter and API integration
+- 👯 I’m looking to collaborate on Django, Django Rest Framework, and Flutter projects
+- 💬 Ask me about Flutter, Django, and Machine Learning
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving mathematical problems
+
 
 ### Skills
 
