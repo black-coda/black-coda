@@ -28,12 +28,6 @@ Mathematician and Flutter & Dart and Python & Django Developer, passionate about
 * 😄 Pronouns: He/Him 👩🏻‍💻
 * ⚡ Fun fact: I love music 🎶 
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=black-coda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=black-coda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="center">
@@ -83,6 +77,11 @@ Mathematician and Flutter & Dart and Python & Django Developer, passionate about
 </div>
 
 ###
+![black-coda's Stats](https://github-readme-stats.vercel.app/api?username=black-coda&theme=nord&show_icons=true&hide_border=true&count_private=false)  ![black-coda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=black-coda&theme=nord&hide_border=true)
+
+
+
+###
 
 <h2 align="left"></h2>
 
@@ -94,6 +93,8 @@ Mathematician and Flutter & Dart and Python & Django Developer, passionate about
 
 ###
 
-<img src="https://raw.githubusercontent.com/black-coda/black-coda/output/snake.svg" alt="Snake animation" />
+<h2 align="left"></h2>
 
 ###
+
+[![Monda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-coda&bg_color=000000&color=ffffff&line=008080&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
