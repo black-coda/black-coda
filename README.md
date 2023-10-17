@@ -15,7 +15,7 @@ Mathematician and Flutter & Dart and Python & Django Developer, passionate about
 
 * 🔭 I’m currently working on 
   - [Nike Shoe Shop : Flutter mobile apps](https://github.com/black-coda/nike_shoe_shop) 👇🏼
-  - [Open source Flutter projects](#open-source-flutter-projects) 👇🏼
+  - [Apertemp](https://github.com/black-coda/apertemp) 👇🏼
   - [Hands on machine learning with scikit-learn and tensorflow](#flutter-tutorials) 📖
   - Lots of half-finished side projects 👀 (Guilty!)
 * 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
