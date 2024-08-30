@@ -65,24 +65,12 @@ Mathematician and Flutter & Dart and Python & Django Developer, passionate about
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="25" alt="xd logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="45" height="30" alt="devto logo"  />
-</div>
-
-###
-![black-coda's Stats](https://github-readme-stats.vercel.app/api?username=black-coda&theme=nord&show_icons=true&hide_border=true&count_private=false)  ![black-coda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=black-coda&theme=nord&hide_border=true)
-
 
 
 ###
+![black-coda's Stats](https://github-readme-stats.vercel.app/api?username=black-coda&theme=nord&show_icons=true&hide_border=true&count_private=true)  ![black-coda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=black-coda&theme=nord&hide_border=true)
 
-<h2 align="left"></h2>
+
 
 ###
 
