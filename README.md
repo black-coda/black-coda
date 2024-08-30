@@ -14,16 +14,15 @@ Mathematician and Flutter & Dart and Python & Django Developer, passionate about
 
 
 * 🔭 I’m currently working on 
-  - [Nike Shoe Shop : Flutter mobile apps](https://github.com/black-coda/nike_shoe_shop) 👇🏼
-  - [Apertemp](https://github.com/black-coda/apertemp) 👇🏼
+  - [Praktika : Flutter mobile apps](https://github.com/black-coda/praktika) 👇🏼
   - [Hands on machine learning with scikit-learn and tensorflow](#flutter-tutorials) 📖
   - Lots of half-finished side projects 👀 (Guilty!)
 * 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 * 💬 Ask me about anything Flutter and Django 💙
 * 📫 How to reach me:
   * Email: mondaysolomon01@gmail.com
-  * Twitter: [Twitter](https://twitter.com/mondaysolomon01)
-  * LinkedIn:[LinkedIn](https://www.linkedin.com/in/solomon-monday-okwharobo-21343220b/)
+  * Twitter: [Twitter](https://x.com/SOkwharobo)
+  * LinkedIn:[LinkedIn](https://github.com/SOkwharobo/ml-journey.git)
 
 * 😄 Pronouns: He/Him 👩🏻‍💻
 * ⚡ Fun fact: I love music 🎶 
@@ -84,12 +83,6 @@ Mathematician and Flutter & Dart and Python & Django Developer, passionate about
 ###
 
 <h2 align="left"></h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/black-coda/count.svg?"  />
-</div>
 
 ###
 
