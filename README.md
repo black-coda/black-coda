@@ -1,81 +1,180 @@
- ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+# 🌟 Welcome to My Digital Universe
 
-
-<p align="center">
-		<img alt="Roaa's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=28&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!,+I'm+Monday">
-  <br />
-  
-</p>
-
-Mathematician and Flutter & Dart and Python & Django Developer, passionate about animation, Machine Learning and  open source, and speaking at tech events.
-
-
-
-
-* 🔭 I’m currently working on 
-  - [Praktika : Flutter mobile apps](https://github.com/black-coda/praktika) 👇🏼
-  - [Hands on machine learning with scikit-learn and tensorflow](#flutter-tutorials) 📖
-  - Lots of half-finished side projects 👀 (Guilty!)
-* 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
-* 💬 Ask me about anything Flutter and Django 💙
-* 📫 How to reach me:
-  * Email: mondaysolomon01@gmail.com
-  * Twitter: [Twitter](https://x.com/SOkwharobo)
-  * LinkedIn:[LinkedIn](https://github.com/SOkwharobo/ml-journey.git)
-
-* 😄 Pronouns: He/Him 👩🏻‍💻
-* ⚡ Fun fact: I love music 🎶 
-
-###
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  ███╗   ███╗ ██████╗ ███╗   ██╗██████╗  █████╗ ██╗   ██╗    ║
+║  ████╗ ████║██╔═══██╗████╗  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝    ║
+║  ██╔████╔██║██║   ██║██╔██╗ ██║██║  ██║███████║ ╚████╔╝     ║
+║  ██║╚██╔╝██║██║   ██║██║╚██╗██║██║  ██║██╔══██║  ╚██╔╝      ║
+║  ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██████╔╝██║  ██║   ██║       ║
+║  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝   ╚═╝       ║
+║                                                               ║
+║     🔮 Mathematician • Flutter Developer • ML Explorer 🔮     ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="25" alt="androidstudio logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="dart logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" alt="django logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="jupyter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="25" alt="latex logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="25" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="25" alt="xd logo"  />
+
+### 🎯 Currently in the Zone
+
+```yaml
+monday@universe:~$ whoami
+```
+
+**Name**: Okwharobo Solomon  
+**Role**: Flutter Developer • Mathematician • ML Enthusiast  
+**Status**: Building intelligent apps, one commit at a time  
+**Location**: Nigeria 🇳🇬  
+
 </div>
 
+---
 
+## 🧠 My Mental Stack
 
-###
-![black-coda's Stats](https://github-readme-stats.vercel.app/api?username=black-coda&theme=nord&show_icons=true&hide_border=true&count_private=true)  ![black-coda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=black-coda&theme=nord&hide_border=true)
+<div align="center">
 
+```mermaid
+graph TD
+    A[🧮 Mathematics] --> B[💻 Programming]
+    B --> C[📱 Flutter]
+    B --> D[🐍 Python]
+    B --> E[🌐 FastAPI & Django]
+    C --> F[🚀 Mobile Projects]
+    D --> G[🤖 Machine Learning]
+    E --> H[🧠 AI APIs]
+    G --> I[💡 Health Prediction Models]
+    F --> J[📱 Citizena App]
+```
 
+</div>
 
-###
+---
 
-<h2 align="left"></h2>
+## 🏗️ Current Quests
 
-###
+<table>
+<tr>
+<td width="50%">
 
-[![Monda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-coda&bg_color=000000&color=ffffff&line=008080&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🔧 Active Projects
+- 📱 **Citizena** – AI civic education & accountability app  
+- 📊 **Suchi-Teki** – Numerical methods toolkit (Flutter + FastAPI)  
+- ❤️ **Health Prediction** – ML for heart & cholera detection  
+- 🤖 **CycleAI** – Menstrual tracking + AI chatbot  
+
+### 🌱 Learning Tree
+- Deep learning: CNNs, LSTMs, Transformers  
+- Advanced Flutter animations  
+- Serverpod & Supabase integration  
+- Mathematical optimization
+
+</td>
+<td width="50%">
+
+### 🎪 Fun Zone
+
+```python
+class Solomon:
+    def __init__(self):
+        self.pronouns = "He/Him"
+        self.loves = ["🎵 Music", "📚 Learning", "🚀 Innovation"]
+        self.debugging_style = "Rubber Duck Driven 🦆"
+        self.coffee_level = "Always Full ☕"
+    
+    def get_motto(self):
+        return "Code with purpose, dream with math! 🌟"
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Toolkit Arsenal
+
+<div align="center">
+
+### **Primary Weapons**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Support Spells**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Battle Statistics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=black-coda&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=black-coda&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-coda&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=8" height="165"/>
+</div>
+
+---
+
+## 🎵 Vibe Check
+
+<div align="center">
+
+```
+🎧 Currently Playing: Lo-fi beats while coding  
+🎯 Focus Mode: ACTIVATED  
+☕ Coffee Status: Brewing...  
+🦆 Rubber Duck: Ready for debugging session  
+```
+
+**Life Philosophy**: *"In mathematics we find truth, in code we build dreams!"*
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-mondaysolomon01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mondaysolomon01@gmail.com)  
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@SOkwharobo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SOkwharobo)  
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎲 Random Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+⭐ Star repos you find interesting • 🍴 Fork and contribute • 💬 Let's build something amazing together!
+```
+
+**Last Updated**: With love and caffeine ☕ | **Visitors**: ![](https://visitor-badge.laobi.icu/badge?page_id=black-coda.black-coda)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
