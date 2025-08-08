@@ -147,7 +147,7 @@ class Solomon:
 
 [![Email](https://img.shields.io/badge/📧_Email-mondaysolomon01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mondaysolomon01@gmail.com)  
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-@SOkwharobo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SOkwharobo)  
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/okwharobosm)
 
 </div>
 
